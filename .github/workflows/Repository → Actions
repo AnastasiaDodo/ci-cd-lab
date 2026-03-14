@@ -1,0 +1,4 @@
+CI Pipeline
+✔ setup python
+✔ install pytest
+✔ run tests
